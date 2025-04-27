@@ -1,0 +1,42 @@
+
+
+--- Project Structure generated at 2025-04-27 23:16:43 ---
+- README.md
+- data/
+    - AAPL.csv
+    - ABT.csv
+    - AMZN.csv
+    - BAC.csv
+    - COP.csv
+    - COST.csv
+    - CSCO.csv
+    - CVX.csv
+    - DIS.csv
+    - GOOGL.csv
+    - HD.csv
+    - INTC.csv
+    - JPM.csv
+    - KO.csv
+    - MA.csv
+    - MCD.csv
+    - META.csv
+    - MRK.csv
+    - MSFT.csv
+    - NFLX.csv
+    - NKE.csv
+    - NVDA.csv
+    - ORCL.csv
+    - PEP.csv
+    - PFE.csv
+    - TSLA.csv
+    - UNH.csv
+    - V.csv
+    - WFC.csv
+    - XOM.csv
+- data_processor/
+    - feature_engineering.py
+- main.py
+- model/
+    - signal_model.py
+- projectStructure.py
+- requirements.txt
