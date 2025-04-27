@@ -1,1 +1,0 @@
-# quant--strategy-1
